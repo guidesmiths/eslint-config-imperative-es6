@@ -1,0 +1,22 @@
+{
+  "name": "eslint-config-imperative-es6",
+  "version": "1.0.0",
+  "description": "Imperative ES6 ESLint config. Just the stuff that matters",
+  "main": "index.js",
+  "keywords": [
+    "eslint",
+    "eslintconfig",
+    "config",
+    "imperative",
+    "javascript",
+    "es6"
+  ],
+  "author": "GuideSmiths Ltd",
+  "license": "MIT",
+  "peerDependencies": {
+    "eslint": "^3.0.1"
+  },
+  "engines": {
+    "node": ">= 4"
+  }
+}
