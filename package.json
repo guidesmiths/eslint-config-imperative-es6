@@ -14,7 +14,7 @@
   "author": "GuideSmiths Ltd",
   "license": "MIT",
   "peerDependencies": {
-    "eslint": "^3.0.1"
+    "eslint": "^4.1.1"
   },
   "engines": {
     "node": ">= 4"
